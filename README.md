@@ -10,6 +10,10 @@ This project is designed to automatically detect and segregate waste into differ
 
 ![Circuit Diagram](Circuit-Diagram.png)
 
+## 📷 Project Photo
+
+![Project Photo](project-photo.jpg)
+
 ## 🛠️ Technologies Used
 
 - Arduino UNO
