@@ -8,7 +8,7 @@ This project is designed to automatically detect and segregate waste into differ
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](Circuit-Diagram.png)
+![circuit diagram](circuit-diagram.png)
 
 ## 📷 Project Photo
 
