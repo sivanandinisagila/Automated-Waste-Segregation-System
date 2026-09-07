@@ -6,6 +6,10 @@ An automated waste segregation system using Arduino and sensors to separate wast
 
 This project is designed to automatically detect and segregate waste into different categories using sensors, Arduino, and a motor-based mechanism. The system helps reduce manual waste segregation and promotes efficient waste management.
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](Circuit-Diagram.png)
+
 ## 🛠️ Technologies Used
 
 - Arduino UNO
